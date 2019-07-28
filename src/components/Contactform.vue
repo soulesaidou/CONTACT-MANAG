@@ -18,11 +18,7 @@
               lastName: "",
               email: "",
               phone: ""
-            };
+            }; 
         }
-    }
-</script>
-
-<style lang="scss" scoped>
-
-</style>
+   }
+</script><style lang="scss" scoped></style>
