@@ -6,11 +6,12 @@
 
 <script>
 import ContactForm from './components/Contactform.vue';
+
 export default {
   name: 'app',
   components: {
-    ContactForm
-  }
+    ContactForm,
+  },
 };
 </script>
 

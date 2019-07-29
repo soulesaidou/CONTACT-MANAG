@@ -19,3 +19,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+src/shared/config.js
+# cette ligne nous permet de pas comité sur le git les changement de la base de donnee
